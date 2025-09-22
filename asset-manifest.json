@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/5D-leet-code-with-multiverse-time-travel/static/css/main.e6c13ad2.css",
+    "main.js": "/5D-leet-code-with-multiverse-time-travel/static/js/main.b0238bce.js",
+    "static/js/453.ca7a9bc1.chunk.js": "/5D-leet-code-with-multiverse-time-travel/static/js/453.ca7a9bc1.chunk.js",
+    "index.html": "/5D-leet-code-with-multiverse-time-travel/index.html",
+    "main.e6c13ad2.css.map": "/5D-leet-code-with-multiverse-time-travel/static/css/main.e6c13ad2.css.map",
+    "main.b0238bce.js.map": "/5D-leet-code-with-multiverse-time-travel/static/js/main.b0238bce.js.map",
+    "453.ca7a9bc1.chunk.js.map": "/5D-leet-code-with-multiverse-time-travel/static/js/453.ca7a9bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0238bce.js"
+  ]
+}
